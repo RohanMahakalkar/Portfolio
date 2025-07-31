@@ -8,7 +8,6 @@ import {
 } from '@mui/material';
 import {
   GitHub as GitHubIcon,
-  Launch as LaunchIcon,
 } from '@mui/icons-material';
 
 const Projects: React.FC = () => {
