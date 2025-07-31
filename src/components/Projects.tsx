@@ -3,10 +3,8 @@ import {
   Container,
   Typography,
   Box,
-  Paper,
   Grid,
   Button,
-  Chip,
 } from '@mui/material';
 import {
   GitHub as GitHubIcon,
