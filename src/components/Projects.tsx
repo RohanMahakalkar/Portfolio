@@ -130,17 +130,6 @@ const Projects: React.FC = () => {
                     >
                       Code
                     </Button>
-                    <Button
-                      variant="contained"
-                      size="medium"
-                      startIcon={<LaunchIcon className="animate-rotate" />}
-                      href={project.liveUrl}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 hover:scale-105 transition-all hover-jello"
-                    >
-                      Live Demo
-                    </Button>
                   </Box>
                 </div>
               </div>
